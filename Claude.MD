@@ -38,6 +38,7 @@ source ~/.bashrc
 
   ```
   https://sbnil.mxwlonline.top/auth/login
+  http://www3.mxwljsq.com/auth/login
   ```
 
 * IP 风险检测：
